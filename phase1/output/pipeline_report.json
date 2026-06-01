@@ -1,0 +1,12 @@
+{
+  "asr_text": "开放时间早上9点至下午5点。",
+  "asr_time_s": 15.123429298400879,
+  "llm_response": "看来您在说一个机构或者场所的开放时间是早九点到晚五点。这样安排的话，一天的工作时间正好八小时呢。这是指哪个地方呢？如果需要帮忙查询其他相关信息，请告诉我具体一点哦。",
+  "llm_ttft_ms": 645.3914642333984,
+  "llm_tokens": 50,
+  "llm_total_time_s": 2.4099388122558594,
+  "tts_time_s": 1.3988630771636963,
+  "tts_output": "E:\\python_projects\\Smart_RangRang\\phase1\\output\\pipeline_output.mp3",
+  "total_time_s": 19.698037147521973,
+  "e2e_first_audio_latency_ms": 16188.479685783384
+}

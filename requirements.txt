@@ -1,0 +1,29 @@
+# Smart RangRang - Python 依赖
+# 安装: pip install -r requirements.txt
+
+# Web 框架
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+websockets>=12.0
+
+# HTTP 客户端 (Ollama)
+httpx>=0.27.0
+
+# 音频处理
+numpy>=1.26.0
+scipy>=1.13.0
+scikit-learn>=1.5.0
+pyaudio>=0.2.14
+
+# 语音合成
+edge-tts>=6.1.0
+
+# 语音识别
+funasr>=1.1.0
+modelscope>=1.17.0
+
+# 深度学习
+torch>=2.1.0
+
+# 配置
+pyyaml>=6.0
